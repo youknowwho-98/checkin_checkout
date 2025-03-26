@@ -1,7 +1,3 @@
-# checkin_checkout
-
-
-
 Vì miếng cơm manh áo, nhớ checkin checkout đầy đủ
 
 
