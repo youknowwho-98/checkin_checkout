@@ -12,7 +12,7 @@ headers0={"Host": "ddc.fis.vn",
 "User-Agent": "okhttp/4.9.1",
 "Connection": "close"}
 
-data0={"username":"duydv25","password":"Duc@tiHyper950",
+data0={"username":"","password":"",
 "buildNumber":"10955","version":"1.85","deviceIP":"10.15.180.1",
 "deviceModel":"iPhone14,2","osVersion":"16.3"}
 
