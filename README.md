@@ -20,7 +20,7 @@ Add file auto run
 ![image](https://github.com/user-attachments/assets/adb97865-569b-42d7-bd80-e9d93c093ab3)
 
 
-
+Thay DevicesID bằng DevicesID của thiết bị đăng kí checkin
 
 
 
