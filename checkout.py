@@ -37,7 +37,7 @@ headers1 = { "Host": "ddc.fis.vn",
 "User-Agent": "okhttp/4.9.1",
 "Connection": "close"}
  
-data1 = {"deviceId":"C09EFE06-56E7-4F23-90DE-FDB4721532F0","ssid":"FIS","deviceName":"iPhone14,2","ipGateway":"10.15.180.1","type":0,"dataPrivate":"MiSXyUe6HnJW7CXHrsYUYI/1MJMyQmlMcypAQIz6+l6cEz7CJhQT4E8yPtie+m5WttfWpvc2K0xG\nfUrhMm8uzMeauvQR1GYB0ws2YBECdPXNyHJEYTI/cdxwkfy4RP/vku8HSfP8m4t9AaTeVEhtZ0yM\nwVmi6RK7YO1t4B+7W8A=\n"}
+data1 = {"deviceId":"XXXX","ssid":"FIS","deviceName":"iPhone14,2","ipGateway":"10.15.180.1","type":0,"dataPrivate":"MiSXyUe6HnJW7CXHrsYUYI/1MJMyQmlMcypAQIz6+l6cEz7CJhQT4E8yPtie+m5WttfWpvc2K0xG\nfUrhMm8uzMeauvQR1GYB0ws2YBECdPXNyHJEYTI/cdxwkfy4RP/vku8HSfP8m4t9AaTeVEhtZ0yM\nwVmi6RK7YO1t4B+7W8A=\n"}
  
 response = requests.post(url1, headers=headers1, json=data1)
  
