@@ -21,9 +21,11 @@ Add file auto run
 
 
 **File Checkin/Checkout.py:**
+
 Thay **deviceID** bằng **deviceID** của thiết bị đã đăng kí 
 
 **File .bat:**
+
 "C:\Users\..\AppData\Local\Programs\Python\Pythonxxx\python.exe" -> đường dẫn đến thư mục cài đặt Python trên máy
 "D:\..\checkin.py" -> đường dẫn đến file checkin.py
 
