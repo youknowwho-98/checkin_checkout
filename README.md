@@ -1,4 +1,4 @@
-Vì miếng cơm manh áo, nhớ checkin checkout đầy đủ
+**Vì miếng cơm manh áo, nhớ checkin checkout đầy đủ**
 
 
 Config Task Scheduler to Auto run file:
@@ -20,10 +20,12 @@ Add file auto run
 ![image](https://github.com/user-attachments/assets/adb97865-569b-42d7-bd80-e9d93c093ab3)
 
 
-File Checkin/Checkout.py:
-Thay deviceID bằng deviceID của thiết bị đã đăng kí 
+**File Checkin/Checkout.py:**
+Thay **deviceID** bằng **deviceID** của thiết bị đã đăng kí 
 
-
+**File .bat:**
+"C:\Users\..\AppData\Local\Programs\Python\Pythonxxx\python.exe" -> đường dẫn đến thư mục cài đặt Python trên máy
+"D:\..\checkin.py" -> đường dẫn đến file checkin.py
 
 
 
